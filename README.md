@@ -25,7 +25,7 @@ This project was built to get knowledge about the Redux and Zustand .
 ```bash
 #First clone this project on your preference path
 
-$ git clone https://github.com/Luan4560/Ignite-lab.git
+$ git clone https://github.com/Luan4560/Redux-Zustand.git
 
 # Then got to you path, open the project and install the dependecies.
 
